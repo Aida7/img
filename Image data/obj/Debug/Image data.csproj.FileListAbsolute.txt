@@ -1,0 +1,14 @@
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\bin\Debug\Image data.exe.config
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\bin\Debug\Image data.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\bin\Debug\Image data.pdb
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\MainWindow.g.cs
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\App.g.cs
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data_MarkupCompile.cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data_MarkupCompile.lref
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\MainWindow.baml
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data.g.resources
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image_data.Properties.Resources.resources
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data.csproj.GenerateResource.Cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\Image data\Image data\obj\Debug\Image data.pdb
